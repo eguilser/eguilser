@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sergio</h1>
 <h3 align="center">A passionate full-stack developer from Spain</h3>
 
-- 🌱 I’m currently learning **cibersecurity**
+- 🌱 I’m currently learning **cibersecurity, cloud computing**
 
 - 💬 Ask me about **HTML5.0, Typescript, Java, JavaScript, SQL, CSS**
 
