@@ -88,7 +88,7 @@ Here are some of my featured projects and repositories. Visit my GitHub profile 
 </a>  
 <br>
 If you would like to discuss a project, collaboration, or just want to say hello, feel free to send an email to:  
-**[sergioeguiluz614@gmail.com](mailto:sergioeguiluz614@gmail.com)**
+**Email:** [sergio.dev@gmail.com](mailto:sergioeguiluz614@gmail.com)
 
 ---
 
