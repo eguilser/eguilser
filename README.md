@@ -83,12 +83,13 @@ Here are some of my featured projects and repositories. Visit my GitHub profile 
 
 ## Connect with Me
 
-<a href="https://linkedin.com/in/sergio eguíluz" target="_blank" rel="noreferrer">
+<a href="https://www.linkedin.com/in/sergio-eguíluz-43482a265" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>  
-<br>
-If you would like to discuss a project, collaboration, or just want to say hello, feel free to send an email to:  
-**Email:** [sergio.dev@gmail.com](mailto:sergioeguiluz614@gmail.com)
+
+<a href="mailto:sergioeguiluz614@gmail.com">
+  <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+</a>  
 
 ---
 
