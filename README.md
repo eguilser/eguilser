@@ -10,7 +10,7 @@
 ## About Me
 
 - 🌱 **Currently Learning**: Deepening my knowledge in **Cybersecurity** and **Cloud Computing**.  
-- 💬 **Ask Me About**: **HTML5, TypeScript, Java, JavaScript, SQL, CSS**, and modern frameworks like **React**, **Angular**, **Vue**, etc.  
+- 💬 **Ask Me About**: **Python, C++, HTML5, TypeScript, Java, JavaScript, SQL, CSS**, and modern frameworks like **React**, **Angular**, **Vue**, etc.  
 - ⚙️ **Interests**: Building scalable web applications, leveraging containerization and CI/CD for DevOps, and applying best practices in software engineering.  
 - 💡 **Goal**: To combine creativity and technology, delivering impactful solutions that solve complex problems.  
 - 📫 **How to Reach Me**: [sergioeguiluz614@gmail.com](mailto:sergioeguiluz614@gmail.com)
