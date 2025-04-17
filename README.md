@@ -19,6 +19,11 @@
 
 ## 🔥 Featured Projects  
 
+### 💸 **[ERC20-ICO-DApp](https://github.com/eguilser/ERC20-ICO-DApp) - Blockchain Token Sale DApp**  
+<sub>🔗 **Solidity, Hardhat, React, Ethers.js, MetaMask**</sub>  
+🔹 A full-stack **DApp** simulating an **Initial Coin Offering (ICO)** using **ERC20 tokens**.  
+🔹 Users can **connect MetaMask**, **buy tokens with ETH**, and **view token balances** in real-time.
+
 ### 🧠 **[AI-Agent](https://github.com/eguilser/AI-Agent) - AI-Powered Search Assistant**  
 <sub>🚀 **Latest Project | AI, Python, FastAPI, LangChain**</sub>  
 🔹 Intelligent search assistant integrating **LangChain**, **FastAPI**, and **SerpAPI**.  
@@ -48,11 +53,6 @@
 <sub>⚡ **React, TypeScript, Frontend Development**</sub>  
 🔹 A **modern portfolio** built with **React and TypeScript**.  
 🔹 Showcases **projects, skills, and experience** in a dynamic UI.  
-
-### 💸 **[ERC20-ICO-DApp](https://github.com/eguilser/ERC20-ICO-DApp) - Blockchain Token Sale DApp**  
-<sub>🔗 **Solidity, Hardhat, React, Ethers.js, MetaMask**</sub>  
-🔹 A full-stack **DApp** simulating an **Initial Coin Offering (ICO)** using **ERC20 tokens**.  
-🔹 Users can **connect MetaMask**, **buy tokens with ETH**, and **view token balances** in real-time.
 
 ---
 
