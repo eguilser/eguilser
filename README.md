@@ -9,7 +9,7 @@
 
 ## 🚀 About Me  
 
-- 🎯 **Focus Areas**: AI development, Web & API Engineering, DevOps, and Cybersecurity.  
+- 🎯 **Focus Areas**: AI development, Web & API Engineering, DevOps, Cybersecurity and Blockchain.  
 - 💡 **Tech Stack**: **Python, TypeScript, JavaScript, C++, Java, React, FastAPI, Node.js, Docker, AWS, Azure, SQL, NoSQL**.  
 - 🔍 **Passionate About**: AI-powered applications, cloud-based solutions, and cybersecurity best practices.  
 - 🎓 **Currently Learning**: **AI Agents, Large Language Models (LLMs), and cloud-driven architectures**.  
