@@ -49,6 +49,11 @@
 🔹 A **modern portfolio** built with **React and TypeScript**.  
 🔹 Showcases **projects, skills, and experience** in a dynamic UI.  
 
+### 💸 **[ERC20-ICO-DApp](https://github.com/eguilser/ERC20-ICO-DApp) - Blockchain Token Sale DApp**  
+<sub>🔗 **Solidity, Hardhat, React, Ethers.js, MetaMask**</sub>  
+🔹 A full-stack **DApp** simulating an **Initial Coin Offering (ICO)** using **ERC20 tokens**.  
+🔹 Users can **connect MetaMask**, **buy tokens with ETH**, and **view token balances** in real-time.
+
 ---
 
 ## 🛠️ **Technical Skills**  
