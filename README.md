@@ -25,7 +25,7 @@
 🔹 Users can **connect MetaMask**, **buy tokens with ETH**, and **view token balances** in real-time.
 
 ### 🧠 **[AI-Agent](https://github.com/eguilser/AI-Agent) - AI-Powered Search Assistant**  
-<sub>🚀 **Latest Project | AI, Python, FastAPI, LangChain**</sub>  
+<sub>🚀 **AI, Python, FastAPI, LangChain**</sub>  
 🔹 Intelligent search assistant integrating **LangChain**, **FastAPI**, and **SerpAPI**.  
 🔹 Capable of **retrieving data from local files and the internet** with AI-enhanced query processing.  
 
